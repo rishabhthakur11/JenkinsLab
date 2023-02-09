@@ -1,0 +1,20 @@
+{
+  "name": "jenkinslab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01Basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhthakur11/JenkinsLab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabhthakur11/JenkinsLab/issues"
+  },
+  "homepage": "https://github.com/rishabhthakur11/JenkinsLab#readme"
+}
